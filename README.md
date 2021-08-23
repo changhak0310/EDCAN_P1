@@ -33,4 +33,5 @@
 * StatusBar를 사용을 못했다.
 * 시간기능을 추가하고 그에 맞게 알람메시지가 왔으면 좋겠다.
 
+------
 Made By React-Native
